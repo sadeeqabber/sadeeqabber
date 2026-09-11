@@ -1,6 +1,6 @@
 # Hi, I'm Muhammad Abubakar Sadiq 👋
 
-**Medical Laboratory Scientist** | Aspiring **Bioinformatician** | Data Science Enthusiast
+**Medical Laboratory Scientist | Building skills in Data Science, Python & Bioinformatics 
 
 I am a Medical Laboratory Scientist with over 5 years of experience in clinical laboratory diagnostics, currently working in academia. I am transitioning into **Bioinformatics and Computational Biology**, with plans to pursue an MSc in Biotechnology (specializing in Bioinformatics) at Federal University Dutse, Jigawa State.
 
